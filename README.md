@@ -5,3 +5,7 @@ This is a basic recipe website with an index page and five (5) recipe pages. Thi
 This website is made soley from HTML as of June 22nd, 2025. 
 
 By completing this project I have demonstrated skills in basic command line, HTML, and Git version control. 
+
+-- June 29th, 2025 UPDATE --
+
+Added simplistic and color styling to demonstrate basic CSS skills. 
